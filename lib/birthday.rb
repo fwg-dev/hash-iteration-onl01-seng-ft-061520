@@ -12,14 +12,3 @@ birthday_kids = {
   end
 
 end
-
-def age_appropriate_birthday[]
- birthday_kids do [kids_name, age]
-   if birthday_kid < 12
-     puts "Happy Birthday #{name} You are now #{age} old!"
- else
-   puts "You are too old for this."
-   end
-
- end
-end 
